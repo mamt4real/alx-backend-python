@@ -17,3 +17,10 @@ Resources
 ```
 ## Description
 Handling unittesting in python
+## Tasks
+* [README.md](README.md)
+* [client.py](client.py)
+* [fixtures.py](fixtures.py)
+* [test_client.py](test_client.py)
+* [test_utils.py](test_utils.py)
+* [utils.py](utils.py)
