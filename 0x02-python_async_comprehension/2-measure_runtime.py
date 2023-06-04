@@ -14,7 +14,7 @@ async def measure_runtime() -> float:
             void
 
         Return:
-            float random numbers
+            Time elapsed in generating 4 floats asynchronously
     """
     first_time = time.perf_counter()
     tasks = [async_comprehension() for _ in range(4)]
